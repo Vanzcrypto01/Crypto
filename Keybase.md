@@ -57,7 +57,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 https://keybase.io/vanzcrypto01
 
-### From the command line:
+### From the command line: keybase.md
 
 Consider the [keybase command line program](https://keybase.io/download).
 
